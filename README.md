@@ -5,6 +5,7 @@
 
 ## Technology stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 
 <!--
 **serhii-sudo/serhii-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
