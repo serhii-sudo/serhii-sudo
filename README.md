@@ -9,7 +9,7 @@
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
-**Databases**
+**Databases**<br>
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
