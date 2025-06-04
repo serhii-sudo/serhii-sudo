@@ -3,6 +3,9 @@
 ## Telegram
 [sergey_rudenkoo](https://t.me/sergey_rudenkoo)
 
+## Technology stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 <!--
 **serhii-sudo/serhii-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
